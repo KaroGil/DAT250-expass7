@@ -3,6 +3,7 @@ I followed the instructions given, i wasn´t sure how much of the process I was 
 First part of code: https://github.com/KaroGil/dat250-jpa-tutorial/tree/ex7
 
 Here you can see the test passed:
+
 ![img.png](res/img.png)
 
 Here are the generated up and down files for the database:
